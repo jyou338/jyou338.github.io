@@ -12,12 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- A bullet list here
+- This is a second bullet point
 
 1. Numbered
 2. List
@@ -28,8 +24,11 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Also see more [here](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
 
 
 What is a block quote...
 > This is a block quote
 > It's like a block
+
+A punch emoji? :punch:
