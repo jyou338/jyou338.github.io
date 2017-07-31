@@ -7,8 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Playing around with markdown for Infosys lab
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Markdown examples for **Infosys lab**
 ```markdown
 Syntax highlighted code block
 
